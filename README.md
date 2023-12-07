@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating problems as an Engineer<br>📚 Currently learning ML and DL<br>🎯 Goals: To never stop creating models <br>🎲 Fun fact: I worship ChatGPT</p>
+<p align="left">✨ Creating problems as an Engineer<br>📚 Currently learning ML and DL<br>🎯 Goals: To never stop creating models <br>🎲 Fun fact: I worship Google Scholar</p>
 
 ###
 
